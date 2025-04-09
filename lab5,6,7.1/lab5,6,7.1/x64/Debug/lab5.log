@@ -1,0 +1,15 @@
+﻿  Enemy.cpp
+D:\CppDSTU\lab5\Enemy.cpp(19,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\CppDSTU\lab5\Enemy.cpp(21,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\CppDSTU\lab5\Enemy.cpp(25,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Entity.cpp
+D:\CppDSTU\lab5\Entity.cpp(26,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\CppDSTU\lab5\Entity.cpp(28,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\CppDSTU\lab5\Entity.cpp(32,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  lab5.cpp
+  Player.cpp
+D:\CppDSTU\lab5\Player.cpp(22,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\CppDSTU\lab5\Player.cpp(24,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\CppDSTU\lab5\Player.cpp(28,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  lab5.vcxproj -> D:\CppDSTU\lab5\x64\Debug\lab5,6,7.1.exe

@@ -1,0 +1,2 @@
+Player,Hero,100,0
+Player,Hero2,50,50
