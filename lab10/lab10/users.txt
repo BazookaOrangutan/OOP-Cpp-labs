@@ -1,0 +1,7 @@
+student,name,1,1,12
+admin,12,2,12
+admin,123,3,123
+admin,213,4,123
+admin,name,5,3
+teacher,tea,6,3,dep
+student,stud,7,2,ab12
