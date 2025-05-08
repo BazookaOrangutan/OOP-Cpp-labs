@@ -1,0 +1,17 @@
+﻿  Administrator.cpp
+  lab10.cpp
+  Resource.cpp
+D:\DstuCpp\lab10\lab10\AccessControlSystem.h(49,46): error C3861: Administrator: идентификатор не найден
+  (компиляция исходного файла "lab10.cpp")
+  D:\DstuCpp\lab10\lab10\AccessControlSystem.h(49,46):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	D:\DstuCpp\lab10\lab10\AccessControlSystem.h(64,2):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "AccessControlSystem<T>"
+  
+D:\DstuCpp\lab10\lab10\AccessControlSystem.h(49,46): error C2065: Administrator: необъявленный идентификатор
+  (компиляция исходного файла "lab10.cpp")
+  
+  Student.cpp
+  Teacher.cpp
+  User.cpp
+  Создание кода...
