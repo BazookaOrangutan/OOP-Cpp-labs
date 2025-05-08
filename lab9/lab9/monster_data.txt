@@ -1,0 +1,3 @@
+Goblin 1
+Dragon 0
+Skeleton 0

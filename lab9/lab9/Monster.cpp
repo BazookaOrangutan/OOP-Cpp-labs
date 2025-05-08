@@ -27,3 +27,6 @@ int Monster::getHP() const {
 std::string Monster::getName() const {
     return name;
 }
+
+int Monster::getAttack() const { return attackPower; }
+int Monster::getDefense() const { return defense; }

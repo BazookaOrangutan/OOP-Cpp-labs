@@ -1,1 +1,3 @@
-Game save not implemented in detail.
+Hero 100 25 10 1 50
+1
+Sword 1 5

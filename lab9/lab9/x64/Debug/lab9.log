@@ -1,10 +1,2 @@
-﻿  Character.cpp
-  Dragon.cpp
-  Game.cpp
-  Goblin.cpp
-  Inventory.cpp
-  lab9.cpp
-  Monster.cpp
-  Skeleton.cpp
-  Создание кода...
+﻿  Game.cpp
   lab9.vcxproj -> D:\DstuCpp\lab9\x64\Debug\lab9.exe

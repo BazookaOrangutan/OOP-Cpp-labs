@@ -1,12 +1,1926 @@
-Fight with Goblin
-Fight with Goblin
-Fight with Goblin
-Fight with Goblin
-Fight with Goblin
-Fight with Goblin
-Fight with Goblin
-Fight with Goblin
-Fight with Goblin
-Fight with Goblin
-Fight with Goblin
-Fight with Goblin
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero was defeated by Dragon
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero was defeated by Dragon
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Skeleton for 17 damage
+Skeleton hits Hero for 2 damage
+Hero hits Skeleton for 17 damage
+Skeleton hits Hero for 2 damage
+Hero hits Skeleton for 17 damage
+Skeleton hits Hero for 2 damage
+Hero hits Skeleton for 17 damage
+Skeleton hits Hero for 2 damage
+Hero hits Dragon for 15 damage
+Dragon hits Hero for 14 damage
+Hero hits Dragon for 15 damage
+Dragon hits Hero for 14 damage
+Hero hits Dragon for 15 damage
+Dragon hits Hero for 14 damage
+Hero hits Dragon for 15 damage
+Dragon hits Hero for 14 damage
+Hero hits Dragon for 15 damage
+Dragon hits Hero for 14 damage
+Hero hits Dragon for 15 damage
+Dragon hits Hero for 14 damage
+Hero hits Dragon for 15 damage
+Dragon hits Hero for 14 damage
+Hero hits Dragon for 15 damage
+Dragon hits Hero for 14 damage
+Hero hits Dragon for 15 damage
+Dragon hits Hero for 14 damage
+Hero hits Dragon for 15 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 14 damage
+Goblin hits Hero for 6 damage
+Hero hits Goblin for 8 damage
+Goblin hits Hero for 15 damage
+Hero hits Goblin for 8 damage
+Goblin hits Hero for 15 damage
+Hero hits Goblin for 5 damage
+Goblin hits Hero for 24 damage
+Hero hits Goblin for 5 damage
+Goblin hits Hero for 24 damage
+Hero hits Goblin for 5 damage
+Goblin hits Hero for 24 damage
+Hero hits Goblin for 5 damage
+Goblin hits Hero for 24 damage
+Hero hits Goblin for 5 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin has been defeated by Hero
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Hero hits Skeleton for 12 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 12 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 12 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 10 damage
+Skeleton hits Hero for 8 damage
+Hero hits Skeleton for 10 damage
+Skeleton hits Hero for 8 damage
+Hero hits Skeleton for 10 damage
+Skeleton hits Hero for 8 damage
+Hero hits Skeleton for 10 damage
+Skeleton hits Hero for 8 damage
+Hero hits Skeleton for 10 damage
+Skeleton has been defeated by Hero
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 12 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 12 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 12 damage
+Skeleton hits Hero for 5 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 9 damage
+Goblin hits Hero for 9 damage
+Hero hits Goblin for 9 damage
+Goblin hits Hero for 9 damage
+Hero hits Goblin for 9 damage
+Goblin hits Hero for 9 damage
+Hero hits Goblin for 9 damage
+Goblin hits Hero for 9 damage
+Hero hits Goblin for 9 damage
+Goblin hits Hero for 9 damage
+Hero hits Goblin for 9 damage
+Goblin hits Hero for 9 damage
+Hero hits Goblin for 9 damage
+Goblin hits Hero for 9 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 10 damage
+Skeleton hits Hero for 8 damage
+Hero hits Skeleton for 10 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 3 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 12 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 12 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 12 damage
+Skeleton hits Hero for 5 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Skeleton for 10 damage
+Skeleton hits Hero for 8 damage
+Hero hits Skeleton for 10 damage
+Skeleton hits Hero for 8 damage
+Hero hits Skeleton for 10 damage
+Skeleton hits Hero for 8 damage
+Hero hits Skeleton for 10 damage
+Skeleton hits Hero for 8 damage
+Hero hits Skeleton for 10 damage
+Skeleton has been defeated by Hero
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 18 damage
+Skeleton hits Hero for 8 damage
+Hero hits Skeleton for 18 damage
+Skeleton hits Hero for 8 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Skeleton for 14 damage
+Skeleton hits Hero for 14 damage
+Hero hits Skeleton for 14 damage
+Skeleton hits Hero for 14 damage
+Hero hits Skeleton for 14 damage
+Skeleton hits Hero for 14 damage
+Hero hits Skeleton for 14 damage
+Skeleton hits Hero for 14 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Skeleton has been replaced with a stronger version!
+Hero hits Skeleton for 18 damage
+Skeleton hits Hero for 8 damage
+Hero hits Skeleton for 18 damage
+Skeleton hits Hero for 8 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 20 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 20 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 3 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 24 damage
+Skeleton hits Hero for 8 damage
+Hero hits Skeleton for 24 damage
+Skeleton hits Hero for 8 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 14 damage
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 14 damage
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 14 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 9 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 9 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 9 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 9 damage
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 18 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 18 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 18 damage
+Hero hits Goblin for 15 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 5 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 3 damage
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 12 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 12 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 12 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 12 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 12 damage
+Hero hits Goblin for 13 damage
+Goblin hits Hero for 12 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 29 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 29 damage
+Skeleton hits Hero for 5 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 14 damage
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 14 damage
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 14 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 14 damage
+Goblin hits Hero for 6 damage
+Hero hits Goblin for 14 damage
+Goblin hits Hero for 6 damage
+Hero hits Goblin for 14 damage
+Goblin hits Hero for 6 damage
+Hero hits Goblin for 14 damage
+Goblin hits Hero for 6 damage
+Hero hits Goblin for 14 damage
+Goblin has been defeated by Hero
+Item dropped: Steel Shield
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 28 damage
+Skeleton hits Hero for 0 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Skeleton for 24 damage
+Skeleton hits Hero for 3 damage
+Hero hits Skeleton for 24 damage
+Skeleton hits Hero for 3 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 4 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 4 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 4 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 4 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 9 damage
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 9 damage
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 9 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 18 damage
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 18 damage
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 18 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Item dropped: Steel Shield
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 15 damage
+Goblin has been defeated by Hero
+Item dropped: Steel Shield
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 10 damage
+Goblin has been defeated by Hero
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 0 damage
+Goblin hits Hero for 18 damage
+Hero hits Goblin for 0 damage
+Goblin hits Hero for 18 damage
+Hero hits Goblin for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 5 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 3 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 24 damage
+Skeleton hits Hero for 8 damage
+Hero hits Skeleton for 24 damage
+Skeleton hits Hero for 8 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 14 damage
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 14 damage
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 14 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 9 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 9 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 9 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 9 damage
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 18 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 18 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 18 damage
+Hero hits Goblin for 15 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 5 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 3 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 24 damage
+Skeleton hits Hero for 8 damage
+Hero hits Skeleton for 24 damage
+Skeleton hits Hero for 8 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 9 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 9 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 9 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 9 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 14 damage
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 14 damage
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 14 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 18 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 18 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 18 damage
+Hero hits Goblin for 15 damage
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Item dropped: Healing Potion
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 5 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Item dropped: Steel Shield
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 0 damage
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 0 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 24 damage
+Skeleton hits Hero for 3 damage
+Hero hits Skeleton for 24 damage
+Skeleton hits Hero for 3 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 4 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 4 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 4 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 4 damage
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 16 damage
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 16 damage
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 16 damage
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 16 damage
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 16 damage
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 16 damage
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 16 damage
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 16 damage
+Hero hits Goblin for 10 damage
+Goblin has been defeated by Hero
+Item dropped: Steel Shield
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 28 damage
+Skeleton hits Hero for 0 damage
+Hero hits Skeleton for 28 damage
+Skeleton hits Hero for 0 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 8 damage
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 8 damage
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 8 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 5 damage
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 5 damage
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 5 damage
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 5 damage
+Hero hits Goblin for 10 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Item dropped: Steel Shield
+Skeleton has been replaced with a stronger version!
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 0 damage
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 0 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 24 damage
+Skeleton hits Hero for 3 damage
+Hero hits Skeleton for 24 damage
+Skeleton hits Hero for 3 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 4 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 4 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 4 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 4 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 9 damage
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 9 damage
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 9 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 13 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 13 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 13 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 13 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 13 damage
+Hero hits Goblin for 15 damage
+Goblin has been defeated by Hero
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 13 damage
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 13 damage
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 13 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 15 damage
+Hero hits Goblin for 10 damage
+Goblin hits Hero for 15 damage
+Hero hits Goblin for 10 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 23 damage
+Skeleton hits Hero for 5 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 3 damage
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 3 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Iron Sword
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 12 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 12 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 12 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 12 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Healing Potion
+Hero hits Skeleton for 39 damage
+Skeleton hits Hero for 5 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Skeleton for 38 damage
+Skeleton hits Hero for 14 damage
+Skeleton has been replaced with a stronger version!
+Item dropped: Healing Potion
+Hero hits Goblin for 35 damage
+Goblin hits Hero for 18 damage
+Hero hits Goblin for 35 damage
+Goblin hits Hero for 18 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 45 damage
+Skeleton hits Hero for 23 damage
+Skeleton has been replaced with a stronger version!
+Item dropped: Healing Potion
+Hero hits Skeleton for 45 damage
+Skeleton hits Hero for 35 damage
+Hero hits Skeleton for 45 damage
+Skeleton has been defeated by Hero
+Item dropped: Healing Potion
+Skeleton has been replaced with a stronger version!
+Hero hits Skeleton for 38 damage
+Skeleton hits Hero for 53 damage
+Hero hits Skeleton for 38 damage
+Skeleton hits Hero for 53 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Dragon for 75 damage
+Dragon hits Hero for 2 damage
+Hero hits Dragon for 75 damage
+Dragon hits Hero for 2 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Iron Sword
+Hero hits Dragon for 83 damage
+Dragon hits Hero for 5 damage
+Hero hits Dragon for 83 damage
+Dragon hits Hero for 5 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Steel Shield
+Hero hits Goblin for 80 damage
+Goblin hits Hero for 19 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 69 damage
+Skeleton hits Hero for 58 damage
+Skeleton has been replaced with a stronger version!
+Item dropped: Steel Shield
+Hero hits Goblin for 93 damage
+Goblin hits Hero for 19 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 78 damage
+Skeleton hits Hero for 59 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Dragon for 144 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Healing Potion
+Hero hits Skeleton for 85 damage
+Skeleton hits Hero for 63 damage
+Skeleton has been replaced with a stronger version!
+Item dropped: Steel Shield
+Goblin has been replaced with a stronger version!
+Item dropped: Steel Shield
+Hero hits Dragon for 173 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Healing Potion
+Goblin has been replaced with a stronger version!
+Item dropped: Steel Shield
+Hero hits Dragon for 190 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Iron Sword
+Hero hits Skeleton for 135 damage
+Skeleton hits Hero for 0 damage
+Skeleton has been replaced with a stronger version!
+Goblin has been replaced with a stronger version!
+Item dropped: Steel Shield
+Hero hits Skeleton for 148 damage
+Skeleton hits Hero for 0 damage
+Skeleton has been replaced with a stronger version!
+Item dropped: Healing Potion
+Goblin has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Skeleton has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Item dropped: Iron Sword
+Goblin has been replaced with a stronger version!
+Item dropped: Iron Sword
+Dragon has been replaced with a stronger version!
+Item dropped: Iron Sword
+Skeleton has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Item dropped: Steel Shield
+Goblin has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Skeleton has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Goblin has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Item dropped: Iron Sword
+Skeleton has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Goblin has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Skeleton has been replaced with a stronger version!
+Item dropped: Iron Sword
+Goblin has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Goblin has been replaced with a stronger version!
+Item dropped: Iron Sword
+Skeleton has been replaced with a stronger version!
+Item dropped: Iron Sword
+Dragon has been replaced with a stronger version!
+Item dropped: Healing Potion
+Skeleton has been replaced with a stronger version!
+Item dropped: Healing Potion
+Goblin has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Skeleton has been replaced with a stronger version!
+Item dropped: Healing Potion
+Goblin has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Item dropped: Healing Potion
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Item dropped: Healing Potion
+Dragon has been replaced with a stronger version!
+Item dropped: Healing Potion
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Skeleton has been replaced with a stronger version!
+Item dropped: Iron Sword
+Goblin has been replaced with a stronger version!
+Skeleton has been replaced with a stronger version!
+Goblin has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Item dropped: Steel Shield
+Skeleton has been replaced with a stronger version!
+Goblin has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Skeleton has been replaced with a stronger version!
+Goblin has been replaced with a stronger version!
+Item dropped: Steel Shield
+Dragon has been replaced with a stronger version!
+Skeleton has been replaced with a stronger version!
+Item dropped: Steel Shield
+Goblin has been replaced with a stronger version!
+Item dropped: Iron Sword
+Dragon has been replaced with a stronger version!
+Skeleton has been replaced with a stronger version!
+Item dropped: Iron Sword
+Goblin has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Item dropped: Healing Potion
+Skeleton has been replaced with a stronger version!
+Goblin has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Skeleton has been replaced with a stronger version!
+Item dropped: Healing Potion
+Goblin has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Skeleton has been replaced with a stronger version!
+Goblin has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Item dropped: Iron Sword
+Skeleton has been replaced with a stronger version!
+Item dropped: Iron Sword
+Goblin has been replaced with a stronger version!
+Item dropped: Iron Sword
+Dragon has been replaced with a stronger version!
+Item dropped: Iron Sword
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Healing Potion
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Item dropped: Iron Sword
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Item dropped: Iron Sword
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Healing Potion
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Iron Sword
+Hero hits Skeleton for 25 damage
+Skeleton hits Hero for 5 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 23 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 23 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Steel Shield
+Hero hits Goblin for 24 damage
+Goblin hits Hero for 1 damage
+Hero hits Goblin for 24 damage
+Goblin hits Hero for 1 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Healing Potion
+Hero hits Skeleton for 43 damage
+Skeleton hits Hero for 0 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 28 damage
+Goblin hits Hero for 2 damage
+Hero hits Goblin for 28 damage
+Goblin hits Hero for 2 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 44 damage
+Skeleton hits Hero for 0 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Skeleton for 38 damage
+Skeleton hits Hero for 4 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 30 damage
+Goblin hits Hero for 8 damage
+Hero hits Goblin for 30 damage
+Goblin hits Hero for 8 damage
+Hero hits Goblin for 30 damage
+Goblin has been defeated by Hero
+Item dropped: Iron Sword
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 30 damage
+Goblin hits Hero for 18 damage
+Hero hits Goblin for 30 damage
+Goblin hits Hero for 18 damage
+Hero hits Goblin for 30 damage
+Goblin hits Hero for 18 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Healing Potion
+Hero hits Skeleton for 60 damage
+Skeleton hits Hero for 0 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Skeleton for 50 damage
+Skeleton hits Hero for 15 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 38 damage
+Goblin hits Hero for 25 damage
+Hero hits Goblin for 38 damage
+Goblin hits Hero for 25 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 43 damage
+Skeleton hits Hero for 30 damage
+Hero hits Skeleton for 43 damage
+Skeleton hits Hero for 30 damage
+Skeleton has been replaced with a stronger version!
+Item dropped: Steel Shield
+Hero hits Skeleton for 44 damage
+Skeleton hits Hero for 38 damage
+Hero hits Skeleton for 44 damage
+Skeleton hits Hero for 38 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 39 damage
+Goblin hits Hero for 33 damage
+Hero hits Goblin for 39 damage
+Goblin hits Hero for 33 damage
+Hero hits Goblin for 39 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Iron Sword
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Iron Sword
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Healing Potion
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Steel Shield
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 0 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Item dropped: Iron Sword
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Iron Sword
+Hero hits Skeleton for 25 damage
+Skeleton hits Hero for 5 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 20 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 20 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Iron Sword
+Hero hits Goblin for 30 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Healing Potion
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Steel Shield
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Goblin for 20 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 20 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 30 damage
+Skeleton hits Hero for 2 damage
+Skeleton has been replaced with a stronger version!
+Item dropped: Shield
+Hero hits Goblin for 30 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 33 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 40 damage
+Skeleton has been defeated by Hero
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 34 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 34 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 28 damage
+Goblin hits Hero for 4 damage
+Hero hits Goblin for 28 damage
+Goblin hits Hero for 4 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Sword
+Goblin has been replaced with a stronger version!
+Item dropped: Shield
+Goblin has been replaced with a stronger version!
+Item dropped: Shield
+Skeleton has been replaced with a stronger version!
+Skeleton has been replaced with a stronger version!
+Item dropped: Shield
+Hero hits Dragon for 85 damage
+Dragon hits Hero for 0 damage
+Hero hits Dragon for 85 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 83 damage
+Dragon hits Hero for 0 damage
+Hero hits Dragon for 83 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Dragon for 101 damage
+Dragon hits Hero for 0 damage
+Hero hits Dragon for 101 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 97 damage
+Dragon hits Hero for 0 damage
+Hero hits Dragon for 97 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Hero hits Dragon for 111 damage
+Dragon hits Hero for 0 damage
+Hero hits Dragon for 111 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Hero hits Dragon for 118 damage
+Dragon hits Hero for 0 damage
+Hero hits Dragon for 118 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Hero hits Dragon for 128 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Hero hits Dragon for 131 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 122 damage
+Dragon hits Hero for 0 damage
+Hero hits Dragon for 122 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 106 damage
+Dragon hits Hero for 0 damage
+Hero hits Dragon for 106 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 93 damage
+Dragon hits Hero for 0 damage
+Hero hits Dragon for 93 damage
+Dragon hits Hero for 0 damage
+Hero hits Dragon for 93 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 73 damage
+Dragon hits Hero for 0 damage
+Hero hits Dragon for 73 damage
+Dragon hits Hero for 0 damage
+Hero hits Dragon for 73 damage
+Dragon hits Hero for 0 damage
+Hero hits Dragon for 73 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 56 damage
+Dragon hits Hero for 30 damage
+Hero hits Dragon for 56 damage
+Dragon hits Hero for 30 damage
+Hero hits Dragon for 56 damage
+Dragon hits Hero for 30 damage
+Hero hits Dragon for 56 damage
+Dragon hits Hero for 30 damage
+Hero hits Dragon for 56 damage
+Dragon hits Hero for 30 damage
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 32 damage
+Dragon hits Hero for 66 damage
+Hero hits Dragon for 32 damage
+Dragon hits Hero for 66 damage
+Hero hits Dragon for 32 damage
+Dragon hits Hero for 66 damage
+Hero hits Dragon for 32 damage
+Dragon hits Hero for 66 damage
+Hero hits Dragon for 32 damage
+Dragon hits Hero for 66 damage
+Hero hits Dragon for 32 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Sword
+Goblin has been replaced with a stronger version!
+Goblin has been replaced with a stronger version!
+Item dropped: Sword
+Goblin has been replaced with a stronger version!
+Item dropped: Potion
+Goblin has been replaced with a stronger version!
+Goblin has been replaced with a stronger version!
+Skeleton has been replaced with a stronger version!
+Item dropped: Shield
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Dragon has been replaced with a stronger version!
+Item dropped: Shield
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Item dropped: Shield
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 330 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Shield
+Hero hits Dragon for 325 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 298 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 264 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 233 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Dragon for 225 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 190 damage
+Dragon hits Hero for 27 damage
+Hero hits Dragon for 190 damage
+Dragon hits Hero for 27 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Dragon for 183 damage
+Dragon hits Hero for 50 damage
+Hero hits Dragon for 183 damage
+Dragon hits Hero for 50 damage
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 144 damage
+Dragon hits Hero for 113 damage
+Hero hits Dragon for 144 damage
+Dragon hits Hero for 113 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Shield
+Hero hits Dragon for 133 damage
+Dragon hits Hero for 137 damage
+Hero hits Dragon for 133 damage
+Dragon hits Hero for 137 damage
+Hero hits Dragon for 133 damage
+Dragon hits Hero for 137 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Hero hits Dragon for 125 damage
+Dragon hits Hero for 161 damage
+Hero hits Dragon for 125 damage
+Dragon hits Hero for 161 damage
+Hero hits Dragon for 125 damage
+Dragon hits Hero for 161 damage
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 75 damage
+Dragon hits Hero for 236 damage
+Hero hits Dragon for 75 damage
+Dragon hits Hero for 236 damage
+Hero hits Dragon for 75 damage
+Dragon hits Hero for 236 damage
+Hero hits Dragon for 75 damage
+Dragon hits Hero for 236 damage
+Hero hits Dragon for 75 damage
+Dragon hits Hero for 236 damage
+Hero hits Dragon for 75 damage
+Dragon has been defeated by Hero
+Item dropped: Sword
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 68 damage
+Dragon hits Hero for 266 damage
+Hero hits Dragon for 68 damage
+Dragon hits Hero for 266 damage
+Hero hits Dragon for 68 damage
+Dragon hits Hero for 266 damage
+Hero hits Dragon for 68 damage
+Dragon hits Hero for 266 damage
+Hero hits Dragon for 68 damage
+Dragon hits Hero for 266 damage
+Hero hits Dragon for 68 damage
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Item dropped: Shield
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Item dropped: Sword
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Hero hits Dragon for 509 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Dragon for 493 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Hero hits Dragon for 480 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Dragon for 465 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 398 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Hero hits Dragon for 379 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Dragon for 368 damage
+Dragon hits Hero for 43 damage
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 290 damage
+Dragon hits Hero for 160 damage
+Hero hits Dragon for 290 damage
+Dragon hits Hero for 160 damage
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 215 damage
+Dragon hits Hero for 277 damage
+Hero hits Dragon for 215 damage
+Dragon hits Hero for 277 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Dragon for 198 damage
+Dragon hits Hero for 350 damage
+Hero hits Dragon for 198 damage
+Dragon hits Hero for 350 damage
+Hero hits Dragon for 198 damage
+Dragon hits Hero for 350 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Dragon for 189 damage
+Dragon hits Hero for 423 damage
+Hero hits Dragon for 189 damage
+Dragon hits Hero for 423 damage
+Hero hits Dragon for 189 damage
+Dragon hits Hero for 423 damage
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 103 damage
+Dragon hits Hero for 552 damage
+Hero hits Dragon for 103 damage
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Hero hits Dragon for 0 damage
+Hero hits Dragon for 0 damage
+Hero hits Skeleton for 18 damage
+Skeleton hits Hero for 8 damage
+Hero hits Skeleton for 18 damage
+Skeleton hits Hero for 8 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Dragon for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 18 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 6 damage
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 6 damage
+Hero hits Goblin for 19 damage
+Goblin hits Hero for 6 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Potion
+Hero hits Skeleton for 38 damage
+Skeleton hits Hero for 2 damage
+Skeleton has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Goblin for 33 damage
+Goblin hits Hero for 12 damage
+Hero hits Goblin for 33 damage
+Goblin hits Hero for 12 damage
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 30 damage
+Goblin hits Hero for 21 damage
+Hero hits Goblin for 30 damage
+Goblin hits Hero for 21 damage
+Hero hits Goblin for 30 damage
+Goblin has been defeated by Hero
+Item dropped: Sword
+Goblin has been replaced with a stronger version!
+Skeleton has been replaced with a stronger version!
+Item dropped: Sword
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 80 damage
+Goblin hits Hero for 3 damage
+Goblin has been replaced with a stronger version!
+Skeleton has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Goblin for 98 damage
+Goblin hits Hero for 18 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Shield
+Hero hits Goblin for 114 damage
+Goblin hits Hero for 31 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Shield
+Skeleton has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Dragon for 200 damage
+Dragon has been defeated by Hero
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 198 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Shield
+Dragon has been replaced with a stronger version!
+Item dropped: Shield
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Goblin has been replaced with a stronger version!
+Item dropped: Potion
+Skeleton has been replaced with a stronger version!
+Item dropped: Potion
+Goblin has been replaced with a stronger version!
+Item dropped: Shield
+Skeleton has been replaced with a stronger version!
+Item dropped: Sword
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Item dropped: Sword
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Item dropped: Shield
+Dragon has been replaced with a stronger version!
+Item dropped: Sword
+Dragon has been replaced with a stronger version!
+Item dropped: Shield
+Dragon has been replaced with a stronger version!
+Item dropped: Shield
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Item dropped: Shield
+Dragon has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 374 damage
+Dragon hits Hero for 229 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Potion
+Hero hits Dragon for 373 damage
+Dragon hits Hero for 253 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Shield
+Hero hits Dragon for 375 damage
+Dragon hits Hero for 272 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Shield
+Hero hits Dragon for 370 damage
+Dragon hits Hero for 292 damage
+Dragon has been replaced with a stronger version!
+Hero hits Dragon for 323 damage
+Dragon hits Hero for 367 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Dragon for 319 damage
+Dragon hits Hero for 393 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Dragon for 323 damage
+Dragon hits Hero for 419 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Dragon for 325 damage
+Dragon hits Hero for 451 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Shield
+Hero hits Dragon for 330 damage
+Dragon hits Hero for 478 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Shield
+Hero hits Dragon for 328 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 20 damage
+Skeleton hits Hero for 5 damage
+Hero hits Skeleton for 20 damage
+Skeleton has been defeated by Hero
+Item dropped: Sword
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 23 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 23 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 28 damage
+Skeleton hits Hero for 5 damage
+Skeleton has been replaced with a stronger version!
+Item dropped: Potion
+Hero hits Skeleton for 34 damage
+Skeleton hits Hero for 8 damage
+Skeleton has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Goblin for 39 damage
+Goblin hits Hero for 3 damage
+Goblin has been replaced with a stronger version!
+Hero hits Goblin for 38 damage
+Goblin hits Hero for 9 damage
+Hero hits Goblin for 38 damage
+Goblin hits Hero for 9 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Potion
+Hero hits Skeleton for 53 damage
+Skeleton hits Hero for 14 damage
+Skeleton has been replaced with a stronger version!
+Item dropped: Potion
+Hero hits Goblin for 55 damage
+Goblin hits Hero for 18 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Shield
+Hero hits Skeleton for 70 damage
+Skeleton hits Hero for 18 damage
+Skeleton has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Goblin for 75 damage
+Goblin hits Hero for 20 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 80 damage
+Skeleton hits Hero for 25 damage
+Skeleton has been replaced with a stronger version!
+Item dropped: Shield
+Hero hits Goblin for 83 damage
+Goblin hits Hero for 25 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 88 damage
+Skeleton hits Hero for 30 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 74 damage
+Goblin hits Hero for 43 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 79 damage
+Skeleton hits Hero for 48 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 63 damage
+Goblin hits Hero for 64 damage
+Hero hits Goblin for 63 damage
+Goblin hits Hero for 64 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Potion
+Hero hits Skeleton for 83 damage
+Skeleton hits Hero for 59 damage
+Skeleton has been replaced with a stronger version!
+Item dropped: Potion
+Hero hits Dragon for 160 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Goblin for 100 damage
+Goblin hits Hero for 58 damage
+Goblin has been replaced with a stronger version!
+Hero hits Skeleton for 110 damage
+Skeleton hits Hero for 60 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Dragon for 183 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Shield
+Hero hits Goblin for 110 damage
+Goblin hits Hero for 67 damage
+Goblin has been replaced with a stronger version!
+Hero hits Dragon for 204 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Hero hits Skeleton for 120 damage
+Skeleton hits Hero for 69 damage
+Skeleton has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Goblin for 118 damage
+Goblin hits Hero for 82 damage
+Goblin has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Hero hits Skeleton for 128 damage
+Skeleton hits Hero for 84 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 104 damage
+Goblin hits Hero for 112 damage
+Goblin has been replaced with a stronger version!
+Hero hits Dragon for 230 damage
+Dragon hits Hero for 0 damage
+Dragon has been replaced with a stronger version!
+Item dropped: Sword
+Hero hits Skeleton for 144 damage
+Skeleton hits Hero for 99 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 113 damage
+Goblin hits Hero for 133 damage
+Goblin has been replaced with a stronger version!
+Dragon has been replaced with a stronger version!
+Item dropped: Shield
+Hero hits Skeleton for 153 damage
+Skeleton hits Hero for 115 damage
+Skeleton has been replaced with a stronger version!
+Hero hits Goblin for 125 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero was defeated by Dragon
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero was defeated by Dragon
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero hits Dragon for 5 damage
+Dragon hits Hero for 20 damage
+Hero was defeated by Dragon
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Hero hits Goblin for 15 damage
+Goblin hits Hero for 0 damage
+Goblin has been replaced with a stronger version!
+Item dropped: Sword

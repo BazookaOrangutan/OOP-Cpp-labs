@@ -1,11 +1,13 @@
 ﻿#include "Game.h"
-#include <iostream>
 
 int main() {
-    Game game("Hero");
-    game.start();
-
-    game.saveGame("save.txt");
-    game.loadGame("save.txt");
-
+    srand(time(NULL));
+    try {
+        Game game("Hero");
+        game.start();
+    }
+    catch (...) {
+        std::cout << "Exiting game.\n";
+    }
+    return 0;
 }
